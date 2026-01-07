@@ -38,7 +38,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This project is licensed under the [ MIT License](LICENSE). You are free to use , modify, and share this project wit proper atribution.
 
 ## About Me
-
+Hi! I’m **Tanvi Baheti**, an MSc Mathematics & Computing student at BHU with a strong interest in Data Analytics. I enjoy using mathematics, Python, and SQL to analyze data and solve real-world problems. Always learning, building, and growing through hands-on projects and internships.
 
 
 
